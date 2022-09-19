@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-ap-capra",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05dccc4e-c1db-4b7d-9b36-6fc8730a236f",
+		"tenantId": "833a3289-9b3f-42a0-b9b0-f71eb775ecde"
+	}
+}
